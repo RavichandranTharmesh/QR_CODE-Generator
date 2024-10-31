@@ -19,17 +19,8 @@ bash
 Copy code
 git clone https://github.com/RavichandranTharmesh/QR_CODE-Generator.git
 cd react-qr-generator
-Install the dependencies:
+Install the dependencies
 
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open the app in your browser:
 
 QR Code Input	![Screenshot (684)](https://github.com/user-attachments/assets/324f5ae4-fed2-4d23-bd38-b6f54862c37b)
 ![qr2](https://github.com/user-attachments/assets/c75ce6db-9f15-4756-8e0f-77333d644b0e)
